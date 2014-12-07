@@ -1,0 +1,19 @@
+{
+  "name": "bangla-stemmer",
+  "version": "1.0.0",
+  "description": "Bengali Rule Based Stemmer for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --bail --check-leaks"
+  },
+  "author": "Rifat Nabi <to.rifat@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/torifat/bangla-stemmer.git"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
